@@ -24,7 +24,7 @@
 
 
 <br>
-## 👨🏻‍💻About Me
+## 👨 🏻‍💻About Me
 
 <img src="https://media.giphy.com/media/CNN0wj7wbwX9wRBQ8v/giphy.gif" height="140" width="140" align="right"/>
 
