@@ -26,6 +26,8 @@
 <br>
 ## 👨🏻‍💻About Me
 
+<img src="https://media.giphy.com/media/CNN0wj7wbwX9wRBQ8v/giphy.gif" height="140" width="140" align="right"/>
+
 <b>Motivated and efficient Full-stack web developer</b> with a history of education in B.tech (electronics and communication) and an interest in coding. Working with MERN stack and programming languages like JavaScript & object oriented programming language Java catalyzed my curiosity for web development. I have worked in collaborative environments demonstrating my coding and interpersonal skills to meet deadlines. Looking forward to some interesting and challenging opportunities.
 
 - 🔭 I’m currently working on Frontend & Backend
@@ -37,6 +39,8 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun Fact: Imagination is more important than knowledge 📖
 - 
+
+
  <br>
  
 <h2>🥇 Skills: <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
