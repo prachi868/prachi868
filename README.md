@@ -36,7 +36,7 @@
 - 🚀 Always ready to collaborate for Dev Experiments
 - 💬 Ask me about any MERN related stuff
 - 📫 How to reach me **jainprachi595@gamil.com**
-- 😄 Pronouns: He/His
+- 😄 Pronouns: she/her
 - ⚡ Fun Fact: Imagination is more important than knowledge 📖
 
 
