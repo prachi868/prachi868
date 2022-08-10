@@ -24,8 +24,8 @@
 
 
 <br>
-## 👨 🏻‍💻About Me
 
+<h2> About Me <h2>
 <img src="https://media.giphy.com/media/CNN0wj7wbwX9wRBQ8v/giphy.gif" height="140" width="140" align="right"/>
 
 <b>Motivated and efficient Full-stack web developer</b> with a history of education in B.tech (electronics and communication) and an interest in coding. Working with MERN stack and programming languages like JavaScript & object oriented programming language Java catalyzed my curiosity for web development. I have worked in collaborative environments demonstrating my coding and interpersonal skills to meet deadlines. Looking forward to some interesting and challenging opportunities.
